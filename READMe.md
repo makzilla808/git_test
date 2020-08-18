@@ -1,0 +1,1 @@
+This is Makamae's first git project
